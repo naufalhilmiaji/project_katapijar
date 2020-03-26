@@ -1,2 +1,2 @@
-# katapijar
-Website pembelajaran online
+# Katapijar
+E-Learning Media for Students in Indonesia
